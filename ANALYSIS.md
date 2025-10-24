@@ -33,8 +33,8 @@
 **Findings:**  
 - Total clusters = 6  
 - Total applications = 194  
-- Cluster 1485248649253 dominates (181 apps ≈ 93 %).  
-- Durations mostly under 1 hour, few long-tail jobs > 10 000 s.
+- Cluster 1485248649253 dominates (181 apps ≈ 93 %)
+- Durations mostly under 1 hour, few long-tail jobs > 10 000 s
 
 **Performance:**  
 - Runtime ≈ 15 minutes on cluster;  
