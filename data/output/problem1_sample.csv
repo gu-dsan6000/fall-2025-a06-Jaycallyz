@@ -1,0 +1,11 @@
+log_entry,log_level
+"17/06/08 19:21:24 INFO executor.Executor: Running task 16.0 in stage 2398.0 (TID 95973)","INFO"
+"17/06/09 12:27:46 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 327662","INFO"
+"17/06/08 16:58:45 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 10995","INFO"
+"17/06/06 22:00:38 INFO executor.CoarseGrainedExecutorBackend: Got assigned task 13709","INFO"
+"17/06/08 14:56:26 INFO executor.Executor: Finished task 24.0 in stage 93.0 (TID 3947). 2550 bytes result sent to driver","INFO"
+"17/06/08 17:30:26 INFO python.PythonRunner: Times: total = 40, boot = 18, init = 22, finish = 0","INFO"
+"17/06/08 16:18:41 INFO python.PythonRunner: Times: total = 39, boot = 20, init = 19, finish = 0","INFO"
+"17/06/07 15:12:36 INFO output.FileOutputCommitter: File Output Committer Algorithm version is 1","INFO"
+"17/06/09 18:25:28 INFO executor.Executor: Running task 19.0 in stage 4736.0 (TID 189500)","INFO"
+"17/06/09 22:08:38 INFO storage.BlockManager: Removing RDD 6468","INFO"
